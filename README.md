@@ -31,6 +31,10 @@ pip install sinabs --pre
 The package has been tested on the following configurations
 [![](http://github-actions.40ants.com/synsense/sinabs/matrix.svg?only=ci.multitest)](https://github.com/synsense/sinabs)
 
+For source install, first clone this repository, then
+```
+ pip install -e .
+```
 
 Documentation and Examples
 --------------------------
